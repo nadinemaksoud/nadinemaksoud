@@ -64,5 +64,5 @@ I've been learning for 2 years, exploring JavaScript, HTML, CSS, Python, C, and 
 ### Badges
 
 <a href="https://github.com/nadinemaksoud" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinemaksoud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinemaksoud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&include_all_commits=true&card_width=400&layout=compact" alt="Top Languages" />
 </a>
